@@ -2,9 +2,7 @@ A Java program that implements the Huffman coding algorithm.
 
 
 Part I reads-in a piece of text from the user. The program then counts how
-many times each letter appears in the text, and prints out that information.
-
-For example:
+many times each letter appears in the text, and prints out that information. For example:
 
 Enter your sentence: to be or not to be
 
