@@ -1,0 +1,1 @@
+The objective is to find the largest consequitive sequence of 'Collatz-Steps'. In that lets say the numbers '100-120' share same number of 'Collatz-Steps', we would say from numbers 2-120 the largest consequitve sequence is '20'.
